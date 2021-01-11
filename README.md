@@ -1,9 +1,9 @@
 # recruiting
 阿里巴巴 钉钉安全招聘
 
-base：杭州
-内推邮件地址：jvnqiu.ljq@alibaba-inc.com
-简历命名：职位_姓名_手机号.pdf
+base：杭州  
+内推邮件地址：jvnqiu.ljq@alibaba-inc.com  
+简历命名：职位_姓名_手机号.pdf  
 
 ## 一、流量攻防
 
